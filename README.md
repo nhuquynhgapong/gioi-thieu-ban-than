@@ -1,7 +1,7 @@
 # gioi-thieu-ban-than
 Giới thiệu bản thân
 # Họ và tên: Trương Thị Như Quỳnh
-![Ảnh đại diện](IMG_7108.jpg.jpg)
+![Ảnh đại diện](images/IMG_7108.jpg)
 Xin chào! Mình là Như Quỳnh, sinh viên Khoa Tin học, Trường Đại học Sư phạm – Đại học Huế. Mình là cô gái huế yêu màu hồng, các bạn có thể gọi mình là gà pông ˆ_ˆ
 Danh sách các sở thích:
 - Nghe nhạc

@@ -11,7 +11,7 @@ Xin chào! Mình là Như Quỳnh, sinh viên Khoa Tin học, Trường Đại h
 - Chụp ảnh
 - Làm bánh
 - Email: [truongnhuquynh2029@gmail.com](mailto:truongnhuquynh2029@gmail.com)
-- Facebook: [facebook.com/nhuquynhtruong29](facebook.com/nhuquynhtruong29)
+- Facebook: [https://www.facebook.com/nhuquynhtruong29](https://www.facebook.com/nhuquynhtruong29)
 > “She believed she could, so she did.” — R.S. Grey
 
 .
